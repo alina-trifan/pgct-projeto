@@ -15,3 +15,11 @@ Installation
 `pip install pybliometrics`
 
 ### Using ORCID API to access publication & project tracks
+
+A Python wrapper for accessing the ORCID API is in use. 
+
+API Documentation: https://info.orcid.org/documentation/api-tutorials/api-tutorial-read-data-on-a-record/#easy-faq-2665
+Wrapper: https://github.com/ORCID/python-orcid
+
+Installation
+`pip install orcid
