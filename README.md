@@ -22,4 +22,4 @@ API Documentation: https://info.orcid.org/documentation/api-tutorials/api-tutori
 Wrapper: https://github.com/ORCID/python-orcid
 
 Installation
-`pip install orcid
+`pip install orcid`
